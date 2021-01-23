@@ -1,0 +1,11 @@
+*.rar
+/.idea/
+
+!src/
+!static/images/
+!static/bgm/
+!facsion.ico
+!README.md
+!run.bat
+!.gitignore
+

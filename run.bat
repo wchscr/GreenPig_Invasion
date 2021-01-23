@@ -1,0 +1,1 @@
+pyinstaller  -w -c -i facsion.ico -n pig_invasion --onefile src/main/pig_invasion.py -p src/function -p src/entiy
