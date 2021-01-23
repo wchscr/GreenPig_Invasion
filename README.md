@@ -10,7 +10,7 @@
 pip install pygame
 ```
 
-运行主文件alien_invasion.py开始游戏！
+运行主文件pig_invasion.py开始游戏！
 
 ## 2 游戏操作
 
